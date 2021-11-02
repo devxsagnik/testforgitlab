@@ -1,0 +1,23 @@
+{
+  "name": "testforgitlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtagamermods/testforgitlab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gtagamermods/testforgitlab/issues"
+  },
+  "homepage": "https://github.com/gtagamermods/testforgitlab#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
